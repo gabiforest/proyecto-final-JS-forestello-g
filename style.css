@@ -7,7 +7,7 @@
 /* imagen de fondo para los body de todo el sitio en el reseteo global */
 body{
     background-color: #8080803f;
-    background-image: url('../imagenes/cover.jpg');
+    background-image: url('./imagenes/cover.jpg');
     background-attachment: fixed;
     background-repeat: repeat;
     background-size: auto;
